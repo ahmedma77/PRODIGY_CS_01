@@ -87,7 +87,3 @@ The project includes comprehensive tests. Run them with:
 ```bash
 python test_caesar_cipher.py
 ```
-
-## License
-
-This project is open source and available under the MIT License.
