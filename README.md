@@ -11,9 +11,8 @@ The Caesar Cipher is one of the oldest and most famous encryption techniques in 
 - **Super Encryption**: Encrypts EVERYTHING - letters, numbers, symbols, and even spaces!
 - **Easy Decryption**: Just use the same shift number to get your original message back
 - **Interactive & Fun**: Friendly interface with helpful tips
-- **Smart Validation**: Won't let you enter invalid numbers - it's got your back!
+- **Smart Validation**: Won't let you enter invalid numbers
 - **Perfect for Everyone**: Whether you're a beginner or cryptography expert
-- **No Dependencies**: Just run it with Python - no extra installations needed!
 
 ## Files
 
