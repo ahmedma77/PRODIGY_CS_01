@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Caesar Cipher Tool
 
 A fun and interactive Python program that lets you encrypt and decrypt secret messages using the ancient Caesar Cipher method! Perfect for creating secret codes, solving puzzles, or just having fun with cryptography.
@@ -65,3 +66,6 @@ python test_caesar_cipher.py
 -  **Learning cryptography** concepts
 -  **Fun coding projects**
 -  **Understanding encryption** basics
+=======
+# PRODIGY_CS_01
+>>>>>>> e180027b371026c23b82aba5d084cf34825c95c3
