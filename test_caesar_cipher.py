@@ -46,5 +46,6 @@ def test_caesar_cipher():
     
     print("\nAll tests completed!")
 
+
 if __name__ == "__main__":
     test_caesar_cipher()
