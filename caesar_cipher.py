@@ -103,7 +103,7 @@ def main():
                 break
                 
         except KeyboardInterrupt:
-            print("\n\n Program interrupted. Thanks for using Caesar Cipher!")
+            print("\n\n Program interrupted. Thanks for using Caesar Cipher")
             break
         except Exception as e:
             print(f"\n Oops! Something went wrong: {e}")
